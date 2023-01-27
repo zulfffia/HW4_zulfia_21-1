@@ -1,0 +1,27 @@
+[
+     {
+          "price": "$120",
+          "name": "plants",
+          "img": "img/hw4-img1.jpg"
+     },
+     {
+          "price": "$105",
+          "name": "plants",
+          "img": "img/hw4-img2.jpg"
+     },
+     {
+          "price": "$120",
+          "name": "plants",
+          "img": "img/hw4-img3.jpg"
+     },
+     {
+          "price": "$155",
+          "name": "plants",
+          "img": "img/hw4-img4.jpg"
+     },
+     {
+          "price": "$110",
+          "name": "plants",
+          "img": "img/hw4-img5.jpg"
+     }
+]
